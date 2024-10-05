@@ -8,3 +8,5 @@ The included Windows 64-bit DLL was built from the source code at https://github
 ![usage screenshot](https://github.com/ghsmith/java-jni-libdmtx-with-prebuilt-dll/blob/main/usage_screenshot.jpg?raw=true)
 
 ![described_code_modifications](https://github.com/ghsmith/java-jni-libdmtx-with-prebuilt-dll/blob/main/described_code_modifications.jpg?raw=true)
+
+Good luck!
