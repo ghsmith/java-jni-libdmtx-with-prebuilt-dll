@@ -5,6 +5,6 @@ This project includes a prebuilt libdmtx Windows 64-bit DLL and JNI wrapper. A s
 
 The DLL was built from the source code at https://github.com/dmtx/libdmtx and https://github.com/dmtx/dmtx-wrappers (/java) on October 5, 2024 using MSYS2 mingw-w64-ucrt-x86_64-gcc. I did have to slightly modify the wrapper make file to get a clean build.
 
-![usage screenshot](https://github.com/ghsmith/java-jni-libdmtx-with-prebuilt-dll/blob/main/sample_data_matrix_image.jpg?raw=true)
+![usage screenshot](https://github.com/ghsmith/java-jni-libdmtx-with-prebuilt-dll/blob/main/usage_screenshot.jpg?raw=true)
 
 ![described_code_modifications](https://github.com/ghsmith/java-jni-libdmtx-with-prebuilt-dll/blob/main/described_code_modifications.jpg?raw=true)
