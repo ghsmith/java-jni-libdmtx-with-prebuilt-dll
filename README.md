@@ -5,8 +5,10 @@ This project includes a prebuilt libdmtx Windows 64-bit DLL and Java JNI wrapper
 
 The included Windows 64-bit DLL was built from the source code at https://github.com/dmtx/libdmtx and https://github.com/dmtx/dmtx-wrappers (/java) cloned on October 5, 2024 using MSYS2 mingw-w64-ucrt-x86_64-gcc. I did have to slightly modify the dmtx-wrapper source to get a clean build, and those modifications are described in the second figure below. I have successfully used the DLL with Java v1.8, 11, and 17. I have only tested the Data Matrix decoder. A Data Matrix encoder is also exposed via JNI, but I have not tested it.
 
+Example usage with included demonstrator program:
 ![usage screenshot](https://github.com/ghsmith/java-jni-libdmtx-with-prebuilt-dll/blob/main/usage_screenshot.jpg?raw=true)
 
+How the DLL was built in MSYS2 mingw-w64-ucrt-x86_64-gcc:
 ![described_code_modifications](https://github.com/ghsmith/java-jni-libdmtx-with-prebuilt-dll/blob/main/described_code_modifications.jpg?raw=true)
 
 Good luck!
